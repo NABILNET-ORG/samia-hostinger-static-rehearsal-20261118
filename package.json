@@ -1,0 +1,8 @@
+{
+  "name": "samia-synthetic-managed-hostinger-rehearsal",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node copy-static-fixture.mjs"
+  }
+}
